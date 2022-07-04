@@ -14,7 +14,9 @@
 | Sexe      | Homme     |
 | Couleur     | Rouge     |
 | Nourriture     | Pate Carbonara     |
-| Ananas sur pizza     | <input type="checkbox" disabled /> Oui <input type="checkbox" disabled checked /> Non |
+| Ananas sur pizza     | - [ ] |
+
+- [ ]
 
 ### Hobbies
 
