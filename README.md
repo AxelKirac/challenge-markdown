@@ -14,9 +14,13 @@
 | Sexe      | Homme     |
 | Couleur     | Rouge     |
 | Nourriture     | Pate Carbonara     |
-| Ananas sur pizza     | - [ ] |
+| Ananas sur pizza     | - [] |
 
-- [ ]
+-[]
+
+- []
+
+
 
 ### Hobbies
 
@@ -41,7 +45,7 @@ sa n'en reste pasmoins une cuillere.
 Au final histoire assez ridicule d'une coupure.
 
 
-< [Precedent](https://github.com/sophiegillard/challengeMarkdown_Sophie/blob/main/README.md) | **Axel Kirac** | Suivant >
+< [Precedent](https://github.com/sophiegillard/challengeMarkdown_Sophie/blob/main/README.md) | **Axel Kirac** | [Suivant](https://github.com/HazemMaddouri/challenge-markdown/blob/main/README.md) >
 
 
 [comment]: <> (Le precedent c'est : ) 
