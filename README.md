@@ -14,11 +14,10 @@
 | Sexe      | Homme     |
 | Couleur     | Rouge     |
 | Nourriture     | Pate Carbonara     |
-| Ananas sur pizza     | - [] |
 
--[]
+##### Ananas sur pizza
 
-- []
+- [ ] Oui/Non
 
 
 
