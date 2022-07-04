@@ -39,7 +39,7 @@ sa n'en reste pasmoins une cuillere.
 Au final histoire assez ridicule d'une coupure.
 
 
-< Precedent | **Axel Kirac** | Suivant >
+< [Precedent](https://github.com/sophiegillard/challengeMarkdown_Sophie/blob/main/README.md) | **Axel Kirac** | Suivant >
 
 
 [comment]: <> (Le precedent c'est : ) 
